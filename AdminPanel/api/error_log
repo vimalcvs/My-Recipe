@@ -1,0 +1,1 @@
+[09-Mar-2021 09:21:53 UTC] PHP Fatal error:  Call to undefined function getalldata() in /home/aslamhdi/public_html/Recipe_app/api/api.php on line 62

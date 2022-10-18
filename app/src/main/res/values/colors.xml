@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#CD443A</color>
+    <color name="colorAccent">#CD443A</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bgMain">#FFFFFF</color>
+    <color name="menuIconColor">#29313C</color>
+    <color name="iconColor">#555555</color>
+    <color name="roundBg">#F3F3F3</color>
+    <color name="navigationBg">#ffffff</color>
+</resources>

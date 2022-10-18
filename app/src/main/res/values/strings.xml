@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">My Recipe</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Share</string>
+    <string name="action_favorite">Favorite</string>
+
+    <!--side navigation item-->
+    <string name="menu_category">Category</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="menu_share">Share App</string>
+    <string name="menu_policy">Privacy Policy</string>
+    <string name="menu_about">About Us</string>
+    <string name="menu_rate">Give Star</string>
+    <string name="menu_twitter">Twitter</string>
+    <string name="menu_facebook">Facebook</string>
+    <string name="menu_instagram">Instagram</string>
+    <string name="app_settings">App Settings</string>
+
+
+    <string name="app_description_short">Ultimate Recipe App !</string>
+    <string name="whoops">Whoops</string>
+    <string name="no_data_found">No Recipes Found !</string>
+    <string name="option_retry">Retry</string>
+    <string name="usage_rights_app_info">More Info</string>
+
+    <string name="youtube_api_key">AIzaSyCbehD6DCeDZHaGl8SUWKh1koTiHwKcvKY</string>
+    <string name="error_player">There was an error initializing the YouTubePlayer (%1$s)</string>
+    <string name="current_version">Current Version</string>
+    <string name="_1_0">1.0</string>
+    <string name="push_notification">Push Notification</string>
+    <string name="show_recipe_grid_mode">Show Recipe Grid Mode</string>
+    <string name="night_mode_on">Night Mode ON</string>
+</resources>

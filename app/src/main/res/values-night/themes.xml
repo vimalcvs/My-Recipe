@@ -1,0 +1,14 @@
+<resources>
+
+    <style name="Theme.MyRecipe" parent="Theme.Material3.DayNight.NoActionBar"/>
+
+    <style name="Theme.MyRecipe.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+
+    <style name="Theme.MyRecipe.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.MyRecipe.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#141B23</color>
+
+    <color name="colorAccent">#CD443A</color>
+
+
+    <color name="black">#FFFFFF</color>
+    <color name="white">#000000</color>
+
+    <color name="bgMain">#19202A</color>
+
+    <color name="menuIconColor">#FFFFFF</color>
+    <color name="iconColor">#B8B8B8</color>
+    <color name="roundBg">#131920</color>
+    <color name="navigationBg">#141B23</color>
+
+
+</resources>
